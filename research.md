@@ -4,6 +4,8 @@ title: Research
 
 # Research
 
+[Home](./) | [Research](./research) | [People](./people) | [Publications](./publications) | [News](./news) | [Open Positions](./openings) | [Contact](./contact)
+
 Our research focuses on the discovery, biosynthesis, and biological functions of fungal natural products.
 
 ## Research Area 1: Natural Product Discovery
