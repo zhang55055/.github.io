@@ -5,6 +5,8 @@ title: People
 
 # People
 
+[Home](./) | [Research](./research) | [People](./people) | [Publications](./publications) | [News](./news) | [Open Positions](./openings) | [Contact](./contact)
+
 ## Principal Investigator
 
 ### Prof. Dr. Shuaibing Zhang
