@@ -5,6 +5,8 @@ title: Open Positions
 
 # Open Positions
 
+[Home](./) | [Research](./research) | [People](./people) | [Publications](./publications) | [News](./news) | [Open Positions](./openings) | [Contact](./contact)
+
 We welcome motivated students and researchers interested in fungal natural products, chemical biology, and microbial interactions.
 
 ## Postdoctoral Researchers
