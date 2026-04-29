@@ -5,6 +5,8 @@ title: Contact
 
 # Contact
 
+[Home](./) | [Research](./research) | [People](./people) | [Publications](./publications) | [News](./news) | [Open Positions](./openings) | [Contact](./contact)
+
 Prof. Dr. Shuaibing Zhang  
 School of Traditional Chinese Pharmarcy, China Pharmaceutical University
 
