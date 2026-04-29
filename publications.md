@@ -9,7 +9,7 @@ title: Publications
 
 ## 2026
 
-23.S. Zhang, Y. Huang, K. Schlabach, M. A. Tran, R. Nachawati, N. Bader, A. J. Komor, C. Hertweck, H. Schindelin, M. Lakemeyer,* U.A. Hellmich,*and P. Stallforth* “Microbial DL-Peptidases Enable Predator Defense and Facilitate Structure Elucidation of Complex Natural Products. ” J. Am. Chem. Soc. 2026, 148, 5264-5274. (Cover article)![Zhang Lab group photo](assets/images/JACS-Cover art.png)
+23.S. Zhang, Y. Huang, K. Schlabach, M. A. Tran, R. Nachawati, N. Bader, A. J. Komor, C. Hertweck, H. Schindelin, M. Lakemeyer,* U.A. Hellmich,*and P. Stallforth* “Microbial DL-Peptidases Enable Predator Defense and Facilitate Structure Elucidation of Complex Natural Products. ” J. Am. Chem. Soc. 2026, 148, 5264-5274. (Cover article)<img src="assets/images/JACS-COver art.png" alt="Zhang Lab group photo" width="600">
 
 ## 2025
 
